@@ -1,0 +1,13 @@
+{
+  "$schema": "https://swc.rs/schema.json",
+  "jsc": {
+    "minify": {
+      "mangle": true
+    }
+  },
+  "minify": true,
+  "sourceMaps": true,
+  "env": {
+    "targets": "node >= 20.14.0"
+  }
+}

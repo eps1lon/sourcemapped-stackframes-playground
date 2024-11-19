@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/function-component-destructuring.js"],"sourcesContent":["function Component({ children }) {\n  return children;\n}\n\nComponent();\n"],"names":["Component","children"],"mappings":"AAAA,SAASA,EAAU,CAAEC,SAAAA,CAAQ,CAAE,EAC7B,OAAOA,CACT,CAEAD"}

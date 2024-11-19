@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/function-component-hook.js"],"sourcesContent":["function useState() {\n  throw new Error(\"Boom\");\n}\n\nfunction Component() {\n  return useState()[0];\n}\n\nComponent();\n"],"names":["useState","Error","Component"],"mappings":"AAAA,SAASA,IACP,MAAM,IAAIC,MAAM,OAClB,CAEA,SAASC,IACP,OAAOF,GAAU,CAAC,EAAE,AACtB,CAEAE"}
